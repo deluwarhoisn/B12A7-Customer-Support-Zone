@@ -48,14 +48,16 @@ This project is a React-based **Customer Support Zone** designed to display cust
 
 3. **Task Status Section**
 
-   * Clicking a card adds it to the **Task Status Section** (right side).
+   * Clicking a card adds it to the **Task Status Section** (right side) and shows alert.
    * Task Status shows:
 
      * Ticket Title
      * **Complete Button**
    * Clicking **Complete Button**:
 
-     * Increases **In Progress Count** in Banner.
+     * show alert
+     
+
 
 ### ✅ Footer 
 
@@ -75,13 +77,14 @@ This project is a React-based **Customer Support Zone** designed to display cust
 
 ### 📝 Task Completion Logic 
 
-When a task is completed:
+Clicking **Complete Button**:
 
 1. It is **removed from Task Status**. 
 2. It is added to the **Resolved List**. 
 3. The **In Progress count decreases**. 
 4. The **Resolved count increases**. 
 5. It is removed from the **Customer Tickets list**. 
+
 
 ---
 
