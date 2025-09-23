@@ -67,7 +67,18 @@ This project is a React-based **Customer Support Zone** designed to display cust
 
 * The entire website is **responsive** for mobile devices.
 
+### ✅ Readme: 
+Create a README file to answer the following question-
+
+ - What is JSX, and why is it used?
+ - What is the difference between State and Props?
+ - What is the useState hook, and how does it work?
+ - How can you share state between components in React?
+ - How is event handling done in React?
+
 ---
+
+### 
 
 ## 📌 Challenge Requirements 
 
