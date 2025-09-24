@@ -48,7 +48,7 @@ This project is a React-based **Customer Support Zone** designed to display cust
 
 3. **Task Status Section**
 
-   * Clicking a card adds it to the **Task Status Section** (right side) and shows alert.
+   * Clicking a card adds it to the **Task Status Section** (right side) and shows alert. It will increase the count of in-progress in banner
    * Task Status shows:
 
      * Ticket Title
