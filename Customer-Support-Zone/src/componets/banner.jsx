@@ -43,7 +43,7 @@ const banner = () => {
 
                         <h1 className='text-[24px] font-semibold md:pt-3'>Resolved Task</h1>
                         <p>No resolved tasks yet.</p>
-
+                    <p>helo</p>
                     </div>
                 </div>
 
