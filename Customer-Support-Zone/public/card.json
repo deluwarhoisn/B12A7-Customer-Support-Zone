@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to log in with correct credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20T10:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failure",
+    "description": "Credit card payment not processing successfully.",
+    "customer": "Jane Smith",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-21T12:40:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Feature Request",
+    "description": "Customer requested dark mode option in the app.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-09-22T08:30:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Bug in Dashboard",
+    "description": "Analytics chart not rendering correctly on Safari browser.",
+    "customer": "Emily Davis",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-22T14:20:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Email Notifications",
+    "description": "Customer not receiving notification emails after signup.",
+    "customer": "David Wilson",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-09-23T09:50:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Mobile App Crash",
+    "description": "App crashes on startup for Android 12 users.",
+    "customer": "Sophia Miller",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-23T18:05:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Profile Picture Upload",
+    "description": "User unable to upload profile picture in settings.",
+    "customer": "James Anderson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-24T07:25:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Search Not Working",
+    "description": "Search results page shows no data even with valid queries.",
+    "customer": "Olivia Martinez",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-09-24T11:10:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Password Reset",
+    "description": "Password reset email not being sent to users.",
+    "customer": "Ethan Thomas",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-24T13:45:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Checkout Error",
+    "description": "Items disappear from cart when proceeding to checkout.",
+    "customer": "Ava Taylor",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-24T16:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Slow Loading",
+    "description": "Homepage takes too long to load on slow networks.",
+    "customer": "William Harris",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-24T18:20:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Subscription Issue",
+    "description": "Customer charged twice for monthly subscription.",
+    "customer": "Isabella Clark",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-09-24T20:35:00Z"
+  }
+]
